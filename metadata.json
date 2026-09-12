@@ -1,0 +1,10 @@
+{
+  "name": "WALK BY JULI",
+  "description": "Aplicación móvil de cultura y turismo de Juli",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
